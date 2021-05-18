@@ -1,0 +1,1 @@
+@java -classpath EQ.jar;derby.jar com.lzw.EQ

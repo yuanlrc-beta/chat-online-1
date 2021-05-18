@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 29 10:25:00 CST 2007
+onejar.license.required=true
+manifest.classpath=.;image;
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=E\:\\\u684C\u9762\u7A7A\u95F4\\EQ.jar
+manifest.mergeall=true
+manifest.mainclass=com.lzw.EQ
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
